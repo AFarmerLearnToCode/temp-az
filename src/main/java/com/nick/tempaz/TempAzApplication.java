@@ -18,6 +18,6 @@ public class TempAzApplication {
 
     @GetMapping("/hello")
     public ResponseEntity hello() {
-        return ResponseEntity.ok("Hellllo");
+        return ResponseEntity.ok("Meo meo meo");
     }
 }
